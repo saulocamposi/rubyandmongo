@@ -1,0 +1,15 @@
+<LineaPisos>
+  <Produtos>
+    <Produto>
+          <id>123</id>
+          <sku>ABJ-252</sku>
+          <nome>Nike Track Jacket</nome>
+          <categoria>Calçado</categoria>
+          <url>http://www.mystore.com/ABJ252.html</url>
+          <url_imagem>http://www.mystore.com/images/ABJ252.jpg</url_imagem>
+          <descricao>This is a really great jacket. It's available in several colors and will keep you warm.</descricao>
+          <preco>49.99</preco>
+          <preco_anterior>54.99</preco_anterior>
+      </Produto>
+    </Produtos>
+</LineaPisos>
